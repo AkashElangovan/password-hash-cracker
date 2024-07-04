@@ -35,7 +35,6 @@ This is a Python-based brute-force hash cracker. It attempts to find the origina
 1. **Clone the repository**:
     ```sh
    git@github.com:AkashElangovan/password-hash-cracker.git
-    cd hash-cracker
     ```
 
 2. **Run the script**:
